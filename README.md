@@ -64,4 +64,4 @@ You can additional find samples, documentation, and getting started instructions
 Have a general question, suggestion, or other feedback? Join the [discussion](https://teams.microsoft.com/l/channel/19%3af8fdae88689b445bac337554b05d24da%40thread.skype/General?groupId=8ac1a7bf-c9f0-4e50-a657-dc4a357e5249&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47) on Microsoft Teams.
 
 ----
-> If you are an existing user, please makes sure you review the [release notes](../../releases) between all major and minor package releases.
+> If you are an existing user, please make sure you review the [release notes](../../releases) between all major and minor package releases.
